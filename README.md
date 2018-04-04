@@ -1,17 +1,17 @@
-#Fullstack internship practice project.
-##This project hepls to learn how to make Node backend with bestpractices of folowing kinds
-###Server/Backend:
+# Fullstack internship practice project.
+## This project hepls to learn how to make Node backend with bestpractices of folowing kinds
+### Server/Backend:
 - [x] RESTfull
 - [x] CRUD methods
 - [x] MySQL as Database, Data is just test/lorem stuff
 
-###Views/Frontend:
+### Views/Frontend:
 - [x] Pug As a Template processor
 - [x] Bootstrap As a front-end library
 - [x] ajax As basic request tool
 - [x] jquery As to navigate through DOM easily
 
-###To try popular npm packages:
+### To try popular npm packages:
 - [x] body-parser As a tool to get body from http request
 - [x] express As basement of this app
 - [x] morgan As a tool to create good log to console 
@@ -19,11 +19,11 @@
 - [x] nodemon As a tool to reload server if any changes have been applied
 - [x] pug As a tool to run .pug templates
 
-###Code:
+### Code:
 - [x] Airbnb style guide. with some custom rules
 - [x] ES6 
 - [] MVC pattern
 
-###How to use it:
+### How to use it:
 main routs are:
 /account/*
