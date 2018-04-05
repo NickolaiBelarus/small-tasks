@@ -22,7 +22,7 @@
 ### Code:
 - [x] Airbnb style guide. with some custom rules
 - [x] ES6 
-- [] MVC pattern
+- [ ] MVC pattern
 
 ### How to use it:
 main routs are:
